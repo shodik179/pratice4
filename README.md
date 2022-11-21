@@ -15,4 +15,4 @@ PENJELASAN
 11.ketik user untuk menginput string "n"
 12.di dalam statment else gunakan for data di dalam data mahasiswa untuk melooping data.
 
-![gambar 1](fl.png)
+![gambar 1](flw.png)
